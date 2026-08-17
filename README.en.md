@@ -51,4 +51,4 @@ The jar will appear at `target/ChatRelay-1.0.0.jar`.
 
 ## Bot
 
-Works together with The Abyss bot. Repository: LINK_TO_BOT_REPO
+Works together with The Abyss bot. Repository: https://github.com/Hakhuh/the-abyss-bot

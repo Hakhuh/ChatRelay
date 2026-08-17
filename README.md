@@ -51,4 +51,4 @@ mvn package
 
 ## Бот
 
-Работает в паре с ботом The Abyss. Репозиторий: ССЫЛКА_НА_РЕПОЗИТОРИЙ_БОТА
+Работает в паре с ботом The Abyss. Репозиторий: https://github.com/Hakhuh/the-abyss-bot
