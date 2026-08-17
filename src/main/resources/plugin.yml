@@ -1,0 +1,15 @@
+name: ChatRelay
+version: '${project.version}'
+main: ru.theabyss.chatrelay.ChatRelay
+api-version: '1.21'
+author: TheAbyss
+description: Buffers player chat and hands it out on demand (for RCON polling by a bot).
+commands:
+  chatpull:
+    description: Drain buffered player chat messages (meant to be called over RCON).
+    usage: /chatpull
+    permission: chatrelay.use
+permissions:
+  chatrelay.use:
+    description: Allows draining the chat buffer.
+    default: op
